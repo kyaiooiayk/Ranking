@@ -1,5 +1,5 @@
 # Ranking
-Ranking | Similarity | Seaches
+Ranking | Similarity | Searches
 
 ## Articles
 - [Introducing DoorDash’s in-house search engine](https://careersatdoordash.com/blog/introducing-doordashs-in-house-search-engine/?utm_source=substack&utm_medium=email)
